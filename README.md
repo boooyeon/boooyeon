@@ -7,10 +7,11 @@
 
 <p>
   👋&nbsp; Hi there! I'm <b>full stack web developer</b> who develops API, WEB, and APP.🚀<br/>
-  I have experience 7 years of Android development and 2 years of iOS development.<br/>
-  For the past year, I have been interested in creating Graph-QL APIs with Quarkus and a web screen with React.<br/>
-  Sometimes I develop cross-platforms mobile app like ReactNative or Flutter. (but prefer native💖)<br/><br/>
-  I enjoy waling, riding a bike and drawing. 🏃‍♀️🚴‍♂️🎨<br/>
+  I have experience 1 years of web development. <br/>
+  For the past year, I have been interested in devlopinging AI service with django or flask.<br/>
+  I am particularly interested in Computer Vision.</br>
+  Someday I will develop ART with AI(cV). I'm looking forward to the day when I can show my work to you💖<br/><br/>
+  I enjoy waling, riding a bike and drawing. 🏃‍ ♀️🚴‍ ♂️🎨<br/>
   I hope to develop every beautiful things. ✨ <br/><br/>
 </p>
 
@@ -31,7 +32,7 @@
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
 </p>
 
-#### Tools
+#### 🛠 Tools
 <p>
   <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
