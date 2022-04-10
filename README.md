@@ -10,7 +10,7 @@
   I have experience 7 years of Android development and 2 years of iOS development.<br/>
   For the past year, I have been interested in creating Graph-QL APIs with Quarkus and a web screen with React.<br/>
   Sometimes I develop cross-platforms mobile app like ReactNative or Flutter. (but prefer native💖)<br/><br/>
-  I enjoy waling, riding a bike, drawing. ⛰ 🏄<br/>
+  I enjoy waling, riding a bike and drawing. 🏃‍♀️🚴‍♂️🎨<br/>
   I hope to develop every beautiful things. ✨ <br/><br/>
 </p>
 
