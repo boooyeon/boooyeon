@@ -10,8 +10,8 @@
   I have experience 1 years of web development. <br/>
   For the past year, I have been interested in devlopinging AI service with django or flask.<br/>
   I am particularly interested in Computer Vision.</br>
-  Someday I will develop ART with AI(cV). I'm looking forward to the day when I can show my work to you💖<br/><br/>
-  I enjoy waling, riding a bike and drawing. 🏃‍ ♀️🚴‍ ♂️🎨<br/>
+  Someday I will develop ART with AI. I'm looking forward to the day when I can show my work to you💖<br/><br/>
+  I enjoy walking, riding a bike and drawing. 🏃‍ ♀️🚴‍ ♂️🎨<br/>
   I hope to develop every beautiful things. ✨ <br/><br/>
 </p>
 
